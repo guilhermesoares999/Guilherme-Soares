@@ -1,4 +1,3 @@
-# Guilherme-Soares
 # Olá, sou o Guilherme Soares 👋
 
 **Técnico de Hardware & Redes** a concluir o **CET em Gestão de Redes e Sistemas Computacionais** (Leiria, Portugal) em outubro de 2026, com base em Gestão e Programação de Sistemas Informáticos (GPSI). Neste momento estou em **estágio na HackerProAI** (até janeiro de 2027).
