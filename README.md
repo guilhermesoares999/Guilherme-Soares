@@ -45,5 +45,4 @@ Português (nativo) · Inglês (C2)
 ## 📫 Contacto
 
 - Email: gms.business@outlook.com
-- LinkedIn: [linkedin.com/in/o-teu-perfil](https://linkedin.com/in/o-teu-perfil)
 - Localização: Leiria, Portugal
