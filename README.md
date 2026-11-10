@@ -12,7 +12,7 @@
 ## Competências
 
 **Hardware:** montagem, manutenção e reparação de equipamento, diagnóstico de avarias
-\n**Redes:** Cisco Packet Tracer, Cisco IOS, VLANs, DHCP, routing, infraestrutura
+**Redes:** Cisco Packet Tracer, Cisco IOS, VLANs, DHCP, routing, infraestrutura
 **Sistemas:** Windows, Linux, VirtualBox
 **Programação e dados:** Python, MySQL, T-SQL
 **Outras:** Word, Excel, PowerPoint, edição de vídeo e design gráfico
